@@ -1,10 +1,10 @@
 ## Hi, Simon here!
 
-I'm currently leaning into Ai research.
-I'm looking to collaborate on projects in Computer Vision. 
-Ask me about tech stocks and we might have a nice conversation (can't help it)
-Reach me on WhatsApp with +420 774 074 220.
-Fun fact, I am a fun of Linux but I can't help but to use Mac. 
+- I'm currently leaning into Ai research.
+- I'm looking to collaborate on projects in Computer Vision. 
+- Ask me about tech stocks and we might have a nice conversation (can't help it)
+- Reach me on WhatsApp with +420 774 074 220.
+- Fun fact, I am a fun of Linux but I can't help but to use Mac. 
 
 
 <!--
